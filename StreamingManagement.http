@@ -1,0 +1,6 @@
+@StreamingManagement_HostAddress = http://localhost:5229
+
+GET {{StreamingManagement_HostAddress}}/StreamingManagement/
+Accept: application/json
+
+###
